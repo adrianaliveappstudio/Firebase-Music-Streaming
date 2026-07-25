@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "URGENT — National security advisory: suspected system cloning and fraudulent reseller activity",
+  "datePublished": "2026-07-25T00:00:00Z",
+  "author": {"@type":"Person","name":"Adriana Venter"},
+  "publisher": {"@type":"Organization","name":"Adrianalive App Studio"},
+  "description": "Reports indicate suspected large-scale cloning and unauthorized redeployment of software and reseller channels; investigations ongoing."
+}
