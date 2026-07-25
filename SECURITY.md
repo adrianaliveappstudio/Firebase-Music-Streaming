@@ -2,7 +2,7 @@
 
 ## Reporting Vulnerabilities
 
-**Email:** security@adrianalive.app  
+**Email:** help365now@outlook.com 
 **Response Time:** 48 hours  
 **Project:** Titanium Genre 213714 | adrianalive.app
 
@@ -13,7 +13,7 @@
 **Copyright (c) 2026, Adriana Venter & adrianaliveappstudio. All rights reserved.**
 
 **Primary Contact & Author:** Adriana Venter (@adrianaliveappstudio)  
-**Primary Email:** security@adrianalive.app
+**Primary Email:** help365now@outlook.com
 
 ---
 
@@ -69,3 +69,6 @@ IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
 ---
 
 **Copyright (c) 2026, Adriana Venter & adrianaliveappstudio. All rights reserved.**
+
+help365now@outlook.com
+adrianalivefirebaserfid@outlook.com
