@@ -11,7 +11,7 @@ Official repository for **Titanium Genre 213714** under **adrianaliveappstudio**
 
 * **Author & Lead Developer:** Adriana Venter
 * **GitHub:** [@adrianaliveappstudio](https://github.com/adrianaliveappstudio)
-* **Security & Inquiries:** security@adrianalive.app
+* **Security & Inquiries:** HELP365NOW@OUTLOOK.COM
 * **Official Web Domain:** [adrianalive.app](https://adrianalive.app)
 
 ---
