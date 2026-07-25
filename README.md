@@ -16,7 +16,7 @@ Official repository for **Titanium Genre 213714** under **adrianaliveappstudio**
 
 ---
 
-## 📜 Intellectual Property & Licensing
+## 📜 Intellectual Property Licensing Patents Trademarks & Copyright
 
 This software and all associated source code, binaries, brand assets, and algorithmic designs are protected under **THE ADRIANASAMUSIC LICENSE**.
 
